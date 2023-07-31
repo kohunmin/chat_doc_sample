@@ -4,6 +4,7 @@
 2. https://huggingface.co/sentence-transformers/LaBSE
 3. https://huggingface.co/beomi/llama-2-ko-7b
 
+![Alt text](image.png)
 
 # ko
 
