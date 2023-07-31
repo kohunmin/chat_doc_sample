@@ -1,0 +1,7 @@
+embeddings:
+  model: sentence-transformers/LaBSE
+llm: huggingface
+huggingface:
+  model: beomi/llama-2-ko-7b
+port: 8000
+auth: "1234"

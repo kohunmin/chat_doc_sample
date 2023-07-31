@@ -21,4 +21,4 @@ cd en
 chatdocs download
 chatdocs add /Users/hunminko/Dev/gpt/chatdoc/en/docs
 chatdocs ui
-```# chat_doc_sample
+```
