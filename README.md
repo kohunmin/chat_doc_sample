@@ -6,6 +6,14 @@
 
 ![Alt text](image.png)
 
+# install depdency
+
+```
+conda create -n chatdoc python=3.10
+conda activate chatdoc 
+pip install chatdocs==0.2.5
+```
+
 # ko
 
 ```
