@@ -4,4 +4,5 @@ llm: huggingface
 huggingface:
   model: beomi/llama-2-ko-7b
 port: 8000
+host: 0.0.0.0
 auth: "1234"

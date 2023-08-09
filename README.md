@@ -6,6 +6,11 @@
 
 ![Alt text](image.png)
 
+# How to install conda
+```
+conda 
+```
+
 # install depdency
 
 ```
